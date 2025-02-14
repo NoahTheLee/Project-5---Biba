@@ -1,0 +1,67 @@
+=== DEPARTMENT OF ESOTERIC OPERATIONS ===  
+--- CLEARANCE LEVEL: SECURE ---  
+
+**DIRECTORIAL CONTACT REGISTRY**  
+For internal use only. Unauthorized dissemination of this document will result in **administrative correction protocols**.  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: DR. AURELIA VOSS]  
+- **ASSIGNED SITE:** OBSIDIAN VAULT (SITE-07)  
+- **CONTACT FREQUENCY:** Upon direct request only  
+- **COMMS PROTOCOL:** Encrypted dead-drop via [REDACTED] channel  
+- **NOTES:** Dr. Voss has not been seen **outside** the vault since Incident 07-Omega. Messages are received, but replies are inconsistent.  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: CMDR ELIJAH ROURKE]  
+- **ASSIGNED SITE:** ECHO CHAMBER (SITE-14)  
+- **CONTACT FREQUENCY:** Weekly operational reports  
+- **COMMS PROTOCOL:** Secured audio link (Channel 14-A)  
+- **NOTES:** Personnel should **not** attempt direct contact between 0200-0400 hours. Reports of intercepted transmissions containing **his own voice** remain under investigation.  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: DR. SELENE ASHCROFT]  
+- **ASSIGNED SITE:** BLACK SALTWORKS (SITE-23)  
+- **CONTACT FREQUENCY:** Emergency only  
+- **COMMS PROTOCOL:** Shortwave burst transmission, keyphrase authentication required  
+- **NOTES:** Last confirmed contact **three months ago**. Any incoming messages from her clearance ID must be **cross-verified before response**.  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: PROF. JONATHAN DRAKE]  
+- **ASSIGNED SITE:** DAEDALUS ARRAY (SITE-41)  
+- **CONTACT FREQUENCY:** Every 11-hour operational cycle  
+- **COMMS PROTOCOL:** Quantum-relayed terminal uplink  
+- **NOTES:** Due to **temporal fluctuations**, transmissions may arrive **out of sync**. If a message contains instructions that **have not yet been given**, forward to anomaly division **immediately**.  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: CPT. MARIN VEGA]  
+- **ASSIGNED SITE:** IRON VEIL (SITE-77)  
+- **CONTACT FREQUENCY:** Unknown  
+- **COMMS PROTOCOL:** Classified  
+- **NOTES:** The last registered signal from **Iron Veil** was received six weeks ago. Attempts to reestablish contact have failed. **Standby orders remain in effect.**  
+
+---------------------------------------------------------------  
+
+[DIRECTOR: DR. ALEXANDRA MIREAU]  
+- **ASSIGNED SITE:** VOID CITADEL (SITE-99)  
+- **CONTACT FREQUENCY:** Upon multi-director approval  
+- **COMMS PROTOCOL:** High-orbit relay, triple-authentication required  
+- **NOTES:** Contact attempts require **simultaneous approval from three independent directors**. Unverified messages from this location should be treated as **compromised**.  
+
+---------------------------------------------------------------  
+
+**AUTHORIZATION HASH: 77C1-4D9F-92B3-X0A5**  
+CLASSIFICATION: SECURE | INTERNAL USE ONLY  
+LAST UPDATE: 02/07/2025 16:57 UTC  
+
+=== END OF FILE ===  
+
+
+List of individuals who have written to this document:
+
+Signed by Sakura, ID: 731, on 2025-02-07T21:59:43.513470
+Updates/Changes Made: 8
